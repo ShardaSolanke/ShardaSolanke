@@ -2,7 +2,7 @@
 
 *I am a Data Analyst and currently working at Pragmatic Intelligence and Analytics. And Looking for opportunities in the field of data analysis.*
 
-~Things I'm good at 🔥 -~
+`Things I'm good at 🔥 -`
 
 1. Languages:- Python , SQL
 2. Skill:- Excel
