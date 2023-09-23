@@ -9,7 +9,6 @@ Languages:- Python , SQL
 Skill:- Excel
 
 Tools :- Tableau, PowerBI, JasperSoft, report, ETL, VIsion ERP
-
 Libraries : NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
 
 Data Analysis: Exploratory Data Analysis
