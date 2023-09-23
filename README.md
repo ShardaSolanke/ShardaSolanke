@@ -1,4 +1,3 @@
-### Hi there 👋
 👋 Hi there
 I am a Data Analyst and currently working at Pragmatic Intelligence and Analytics. And Looking for opportunities in the field of data analysis.
 
