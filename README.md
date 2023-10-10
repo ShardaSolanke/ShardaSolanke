@@ -1,6 +1,6 @@
 👋 Hi there
 
-*I am a Data Analyst and currently working at a startup-based IT firm in the analyst domain. And Looking for opportunities in the field of Data Analytics.*
+*I am a Data Analyst and currently working at a startup-based IT firm in the analyst domain.*
 
 `Things I'm good at 🔥 -`
 
